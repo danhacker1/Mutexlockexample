@@ -1,0 +1,6 @@
+C:\Users\Dan\source\repos\MutexLock\MutexLock\bin\Debug\MutexLock.exe.config
+C:\Users\Dan\source\repos\MutexLock\MutexLock\bin\Debug\MutexLock.exe
+C:\Users\Dan\source\repos\MutexLock\MutexLock\bin\Debug\MutexLock.pdb
+C:\Users\Dan\source\repos\MutexLock\MutexLock\obj\Debug\MutexLock.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\MutexLock\MutexLock\obj\Debug\MutexLock.exe
+C:\Users\Dan\source\repos\MutexLock\MutexLock\obj\Debug\MutexLock.pdb
